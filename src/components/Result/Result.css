@@ -1,0 +1,26 @@
+.featured {
+  border-top-color: #0d42ff !important;
+}
+
+.result card {
+  height: 240px !important;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.line {
+  padding: 0 !important;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  width: 100%;
+  border-top: 1px solid #0b6efd;
+}
+
+.line-div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.line-text-result {
+  font-style: italic;
+}
